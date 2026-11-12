@@ -1,0 +1,21 @@
+# Antigravity & Agent Rules
+.cli-runner
+.cursor/
+.agents/
+.windsurfrules
+.clinerules
+.cursorrules
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+runs/
+
+node_modules/
+.next/
+*.tsbuildinfo
+next-env.d.ts
+.env.local
+.env.*.local
+dist/
+build/
+
